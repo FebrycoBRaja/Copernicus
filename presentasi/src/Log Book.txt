@@ -98,7 +98,7 @@ Chairun Arrasyid Damanik:
 	a. Melakukan pengeditan di section 4
 	b. Melakukan Push pertama
 2. Hari ini saya.. 
-	a. Menambah topic : Teori - Teori kuno terkait Astronomi
+	a. Menambah topic : Teori - Teori kuno terkait Astronomi pada trello
 3. Saya ada kendala di..
 	a. pengeditan sintaks index.jade
 
