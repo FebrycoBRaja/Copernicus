@@ -69,8 +69,10 @@ Chairun Arrasyid Damanik:
 	a. -
 
 Edy Pranatha Jaya Ginting:
-1. Hari ini saya.. 
+1. Hari ini saya..
+	a. Penambahan disection 5
 2. Saya ada kendala di..
+	a. Tidak ada
 
 --------------------------------------------------------------------------------------------------------
 27 Mei 2014
@@ -105,10 +107,13 @@ Chairun Arrasyid Damanik:
 
 Edy Pranatha Jaya Ginting:
 1. Semalam saya..
+	a. Penambahan section 5
 2. Hari ini saya.. 
+	a. Mencari Astronomi di Era Millenium
 3. Saya ada kendala di..
+	a. Tidak ada
 
- 
+--------------------------------------------------------------------------------------------------------
 28 Mei 2014
 
 Febryco Bonatua Lumban Raja:
