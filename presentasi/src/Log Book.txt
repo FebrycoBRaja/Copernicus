@@ -56,7 +56,10 @@ Febryco Bonatua Lumban Raja:
 
 Jestin Pangihutan Munthe:
 1. Hari ini saya.. 
+	a. Melakukan push pertama untuk Judul Besar
+	b. Melakukan push untuk pengeditan bagian section
 2. Saya ada kendala di..
+	a. Kendala pada jaringan
 
 Chairun Arrasyid Damanik:
 1. Hari ini saya.. 
