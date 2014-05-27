@@ -90,8 +90,9 @@ Jestin Pangihutan Munthe:
 	b. Melakukan push untuk pengeditan bagian section
 2. Hari ini saya.. 
 	a. Menambah topic terkait Astroniomi Mistery yg ada pada Trello
+	b. Mengedit ulang page 2
 3. Saya ada kendala di..
-	a. -
+	a. Terjadi error syntaks
 
 Chairun Arrasyid Damanik:
 1. Semalam saya..
