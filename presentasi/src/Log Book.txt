@@ -74,8 +74,12 @@ Edy Pranatha Jaya Ginting:
 
 Febryco Bonatua Lumban Raja:
 1. Semalam saya…
-2. Hari ini saya.. 
+	a. Membuat repositori dan board di trello
+	b. Melakukan push pertama file untuk repositori
+2. Hari ini saya..
+	a. Menambahkan topik untuk bagian pertama dan memperbaiki kekurangannya
 3. Saya ada kendala di..
+	a. Tidak ada kendala
 
 Jestin Pangihutan Munthe:
 1. Semalam saya…
