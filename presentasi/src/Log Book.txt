@@ -95,6 +95,7 @@ Jestin Pangihutan Munthe:
 	b. Mengedit ulang page 2
 3. Saya ada kendala di..
 	a. Terjadi error syntaks
+	b. Kesalaha pada sync
 
 Chairun Arrasyid Damanik:
 1. Semalam saya..
