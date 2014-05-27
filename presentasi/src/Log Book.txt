@@ -1,0 +1,113 @@
+Informasi Umum
+==============
+Nama Kelompok 		: Copernicus
+Alamat Github 		: https://github.com/FebrycoBRaja/Copernicus
+Alamat Trello 		: https://trello.com/b/kfkIgXLO/copernicus
+Judul Topik 		: Astronomi
+
+Anggota 1
+Nama : Febryco Bonatua Lumban Raja
+NIM : 121112210
+ 
+Anggota 2
+Nama : Jestin Pangihutan Munthe
+NIM : 121111982
+ 
+Anggota 3
+Nama : Chairun Arrasyid Damanik
+NIM : 121112538
+ 
+Anggota 4
+Nama : Edy Pranatha Jaya Ginting
+NIM : 121112058
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+SPRINT
+======
+Sprint 1: 
+26 Mei – 28 Mei
+Scrummaster: Febryco Bonatua Lumban Raja (121112210)
+
+Sprint 2:
+29 Mei – 31 Mei
+Scrummaster: Jestin Pangihutan Munthe (121111982)
+
+Sprint 3:
+1 Juni – 3 Juni
+Scrummaster: Chairun Arrasyid Damanik (121112538)
+
+Sprint 3:
+4 Juni – 6 Juni
+Scrummaster: Edy Pranatha Jaya Ginting (121112058)
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Daily SCRUM
+===========
+26 Mei 2014
+
+Febryco Bonatua Lumban Raja:
+1. Hari ini saya…
+	a. Membuat repositori dan trello untuk tim
+	b. Melakukan push pertama untuk file yang akan diedit
+2. Saya ada kendala di..
+	a. Pengeditan sintaks pada file index.jade yang jauh berbeda dari pengeditan sintaks html biasa
+
+Jestin Pangihutan Munthe:
+1. Hari ini saya.. 
+2. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Hari ini saya.. 
+2. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Hari ini saya.. 
+2. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+27 Mei 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+ 
+28 Mei 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya…
+2. Hari ini saya.. 
+3. Saya ada kendala di..
