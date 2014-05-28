@@ -143,5 +143,8 @@ Chairun Arrasyid Damanik:
 
 Edy Pranatha Jaya Ginting:
 1. Semalam saya..
+	a. Penambahan 3 section tentang Astronomi di 	   Era Millenium
 2. Hari ini saya.. 
+	a. Menambah topik Astronomi di Era Millenium
 3. Saya ada kendala di..
+	a. Grunt server tidak jalan
