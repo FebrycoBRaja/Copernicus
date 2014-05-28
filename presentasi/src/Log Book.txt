@@ -119,8 +119,13 @@ Edy Pranatha Jaya Ginting:
 
 Febryco Bonatua Lumban Raja:
 1. Semalam saya..
+	a. Membuat subtopik
+	b. Manipulasi tampilan presentasi
 2. Hari ini saya.. 
+	a. Penambahan topik
+	b. Manipulasi tampilan presentasi
 3. Saya ada kendala di..
+	a. Manipulasi tampilan agar responsive di semua perangkat
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
