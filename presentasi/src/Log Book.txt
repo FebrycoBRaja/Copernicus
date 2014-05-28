@@ -129,8 +129,8 @@ Febryco Bonatua Lumban Raja:
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
-	a. Melakukan push pertama untuk Judul Besar
-	b. Melakukan push untuk pengeditan bagian section
+	a. Menambah topic terkait Astroniomi Mistery yg ada pada Trello
+	b. Mengedit ulang page 2
 2. Hari ini saya.. 
 	a. Melakukan Pengeditan Judul
 	b. Menambah topic mengenai misteri Astronomi
