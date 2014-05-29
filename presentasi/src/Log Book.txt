@@ -1,9 +1,9 @@
 Informasi Umum
 ==============
-Nama Kelompok 		: Copernicus
-Alamat Github 		: https://github.com/FebrycoBRaja/Copernicus
-Alamat Trello 		: https://trello.com/b/kfkIgXLO/copernicus
-Judul Topik 		: Astronomi
+Nama Kelompok 	: Copernicus
+Alamat Github 	: https://github.com/FebrycoBRaja/Copernicus
+Alamat Trello 	: https://trello.com/b/kfkIgXLO/copernicus
+Judul Topik 	: Astronomi
 
 Anggota 1
 Nama : Febryco Bonatua Lumban Raja
