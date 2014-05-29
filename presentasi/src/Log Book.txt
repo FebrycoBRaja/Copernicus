@@ -47,7 +47,7 @@ Daily SCRUM
 ===========
 26 Mei 2014
 
-Febryco Bonatua Lumban Raja:
+Febryco Bonatua Lumban Raja: (SCRUM MASTER)
 1. Hari ini saya..
 	a. Membuat repositori dan trello untuk tim
 	b. Melakukan push pertama untuk file yang akan diedit
@@ -129,8 +129,14 @@ Febryco Bonatua Lumban Raja:
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
+	a. Menambah topic terkait Astroniomi Mistery yg ada pada Trello
+	b. Mengedit ulang page 2
 2. Hari ini saya.. 
+	a. Melakukan Pengeditan Judul
+	b. Menambah topic mengenai misteri Astronomi
+	c. Menambah gambar pada page misteri Astronomi
 3. Saya ada kendala di..
+	a. Tidak ada kendala
 
 Chairun Arrasyid Damanik:
 1. Semalam saya..
@@ -143,8 +149,215 @@ Chairun Arrasyid Damanik:
 
 Edy Pranatha Jaya Ginting:
 1. Semalam saya..
-	a. Penambahan 3 section tentang Astronomi di 	   Era Millenium
+	a. Penambahan 3 section tentang Astronomi di Era Millenium
 2. Hari ini saya.. 
 	a. Menambah topik Astronomi di Era Millenium
 3. Saya ada kendala di..
 	a. Grunt server tidak jalan
+
+--------------------------------------------------------------------------------------------------------
+29 Mei 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe: (SCRUM MASTER)
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+30 Mei 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+31 Mei 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+1 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik: (SCRUM MASTER)
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+2 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+3 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+4 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting: (SCRUM MASTER)
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+5 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+6 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
