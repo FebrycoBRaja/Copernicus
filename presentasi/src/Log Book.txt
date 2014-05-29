@@ -165,8 +165,15 @@ Febryco Bonatua Lumban Raja:
 
 Jestin Pangihutan Munthe: (SCRUM MASTER)
 1. Semalam saya..
+	a. Melakukan Pengeditan Judul
+	b. Menambah topic mengenai misteri Astronomi
+	c. Menambah gambar pada page misteri Astronomi
 2. Hari ini saya..
+	a. Perbaikan ulang
+	b. Persingkat materi-materi
+	c. Tambah materi misteri Astronomi beserta gambar lanjutannya
 3. Saya ada kendala di..
+	a. Tidak ada kendala
 
 Chairun Arrasyid Damanik:
 1. Semalam saya..
