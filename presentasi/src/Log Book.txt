@@ -169,9 +169,10 @@ Jestin Pangihutan Munthe: (SCRUM MASTER)
 	b. Menambah topic mengenai misteri Astronomi
 	c. Menambah gambar pada page misteri Astronomi
 2. Hari ini saya..
-	a. Perbaikan ulang
+	a. Fix All
 	b. Persingkat materi-materi
-	c. Tambah materi misteri Astronomi beserta gambar lanjutannya
+	c. Tambah materi misteri Astronomi lanjutannya
+	d. Edit dan penambahan picture
 3. Saya ada kendala di..
 	a. Tidak ada kendala
 
