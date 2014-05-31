@@ -267,29 +267,6 @@ Edy Pranatha Jaya Ginting:
 3. Saya ada kendala di..
 
 --------------------------------------------------------------------------------------------------------
-1 Juni 2014
-
-Febryco Bonatua Lumban Raja:
-1. Semalam saya..
-2. Hari ini saya..
-3. Saya ada kendala di..
-
-Jestin Pangihutan Munthe:
-1. Semalam saya..
-2. Hari ini saya..
-3. Saya ada kendala di..
-
-Chairun Arrasyid Damanik: (SCRUM MASTER)
-1. Semalam saya..
-2. Hari ini saya..
-3. Saya ada kendala di..
-
-Edy Pranatha Jaya Ginting:
-1. Semalam saya..
-2. Hari ini saya..
-3. Saya ada kendala di..
-
---------------------------------------------------------------------------------------------------------
 2 Juni 2014
 
 Febryco Bonatua Lumban Raja:
@@ -302,7 +279,7 @@ Jestin Pangihutan Munthe:
 2. Hari ini saya..
 3. Saya ada kendala di..
 
-Chairun Arrasyid Damanik:
+Chairun Arrasyid Damanik: (SCRUM MASTER)
 1. Semalam saya..
 2. Hari ini saya..
 3. Saya ada kendala di..
@@ -353,7 +330,7 @@ Chairun Arrasyid Damanik:
 2. Hari ini saya..
 3. Saya ada kendala di..
 
-Edy Pranatha Jaya Ginting: (SCRUM MASTER)
+Edy Pranatha Jaya Ginting:
 1. Semalam saya..
 2. Hari ini saya..
 3. Saya ada kendala di..
@@ -376,13 +353,36 @@ Chairun Arrasyid Damanik:
 2. Hari ini saya..
 3. Saya ada kendala di..
 
-Edy Pranatha Jaya Ginting:
+Edy Pranatha Jaya Ginting: (SCRUM MASTER)
 1. Semalam saya..
 2. Hari ini saya..
 3. Saya ada kendala di..
 
 --------------------------------------------------------------------------------------------------------
 6 Juni 2014
+
+Febryco Bonatua Lumban Raja:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Jestin Pangihutan Munthe:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Chairun Arrasyid Damanik:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+Edy Pranatha Jaya Ginting:
+1. Semalam saya..
+2. Hari ini saya..
+3. Saya ada kendala di..
+
+--------------------------------------------------------------------------------------------------------
+7 Juni 2014
 
 Febryco Bonatua Lumban Raja:
 1. Semalam saya..
