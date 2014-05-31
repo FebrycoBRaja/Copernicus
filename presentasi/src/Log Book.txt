@@ -248,8 +248,12 @@ Edy Pranatha Jaya Ginting:
 
 Febryco Bonatua Lumban Raja:
 1. Semalam saya..
+	a. Perbaikan bagian topik satu
+	b. Penambahan bagian topik dua
 2. Hari ini saya..
+	a. Penambahan bagian topik dua
 3. Saya ada kendala di..
+	a. Tidak ada kendala
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
