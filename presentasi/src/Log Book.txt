@@ -292,8 +292,11 @@ Febryco Bonatua Lumban Raja:
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
+	a. Penambahan subtopic pada Kosmologi
 2. Hari ini saya..
+	a. Tambah topic lanjutan tentang misteri astronomi
 3. Saya ada kendala di..
+	a. Koneksi Jaringan
 
 Chairun Arrasyid Damanik: (SCRUM MASTER)
 1. Semalam saya..
