@@ -287,8 +287,11 @@ Edy Pranatha Jaya Ginting:
 
 Febryco Bonatua Lumban Raja:
 1. Semalam saya..
+	a. Penambahan topik di bagian dua
 2. Hari ini saya..
+	a. Manipulasi tampilan presentasi topik bagian pertama dan kedua
 3. Saya ada kendala di..
+	a. Tidak ada kendala
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
