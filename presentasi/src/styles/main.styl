@@ -4,17 +4,17 @@
 
 slide_width = 950px
 slide_height = 490px
-slide_background = rgba(255, 194, 0, 0.44)
+slide_background = #F3D24E
 
 slide_transition_length = .6s
 slide_transition_easing = ease
-slide_transition_rotate_y = 180deg
+slide_transition_rotate_y = 100deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
-slide_transition_nudge_x = -10px
+slide_transition_nudge_x = -1000px
 
 bullet_transition_length = .3s
 bullet_transition_easing = ease
-bullet_transition_translate_x = 16px
+bullet_transition_translate_x = 100px
 
 // base
 
@@ -89,7 +89,7 @@ article
 
 .bespoke-inactive
   opacity: 0
-  pointer-events: none
+  pointer-events: all
   @media print
     opacity 1
 
@@ -324,11 +324,12 @@ a
 	margin-bottom: 20px
 
 #image3132
-  	background: url('../images/Helio.png') no-repeat
-	background-size: 100%
-	width: 250px
-  	height: 140px
-	margin-bottom: 20px
+  background: url('../images/Helio.png') no-repeat
+  background-size: 260px
+  width: 250px
+  height: 140px
+  margin-bottom: 20px
+  margin-left: 170px
 	
 #image4
   background: url('../images/4.jpg') no-repeat
