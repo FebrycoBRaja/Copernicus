@@ -374,8 +374,11 @@ Chairun Arrasyid Damanik:
 
 Edy Pranatha Jaya Ginting:
 1. Semalam saya..
+	a. Penghapusan sebagian topik
 2. Hari ini saya..
+	a. Penambahan bahan Astronomi
 3. Saya ada kendala di..
+	a. Tidak ada
 
 --------------------------------------------------------------------------------------------------------
 5 Juni 2014
