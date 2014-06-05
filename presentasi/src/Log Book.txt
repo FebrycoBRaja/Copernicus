@@ -403,8 +403,11 @@ Febryco Bonatua Lumban Raja:
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
+	a. Penambahan topic
 2. Hari ini saya..
+	a. Lanjutan topic terakhir
 3. Saya ada kendala di..
+	a. Tidak ada
 
 Chairun Arrasyid Damanik:
 1. Semalam saya..
