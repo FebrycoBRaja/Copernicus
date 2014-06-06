@@ -430,8 +430,11 @@ Edy Pranatha Jaya Ginting: (SCRUM MASTER)
 
 Febryco Bonatua Lumban Raja:
 1. Semalam saya..
+	a. Manipulasi tampilan presentasi
 2. Hari ini saya..
+	a. Manipulasi tampilan presentasi
 3. Saya ada kendala di..
+	a. Tidak ada kendala
 
 Jestin Pangihutan Munthe:
 1. Semalam saya..
